@@ -1,6 +1,5 @@
 <h1>
-  Hate Speech Detection in Brazilian Portuguese:
-A Comparative Study Between BERT Models and Large Language Models
+  **HATE SPEECH DETECTION IN BRAZILIAN PORTUGUESE: A COMPARATIVE STUDY BETWEEN BERT MODELS AND LARGE LANGUAGE MODELS**
 </h1>
 <h2>
   📋 Requirements
