@@ -39,4 +39,6 @@ Qwen 3
 </h2>
 If you find any issues or have suggestions to improve the code, feel free to contribute or open an issue.
 For questions or academic collaborations:
-📧 <a href="mailto:luiz01davi@gmail.com">Luiz Davi</a>
+<h2>
+  📧 <a href="mailto:luiz01davi@gmail.com">Luiz Davi</a>
+</h2>
