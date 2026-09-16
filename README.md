@@ -4,15 +4,17 @@
 <h2>
   📋 Requirements
 </h2>
-Python 3.10+
-Biblioteca Python pandas
-Biblioteca Python numpy
-Biblioteca Python matplotlib.pyplot
-Biblioteca Python seaborn
-Biblioteca Python scikit-learn
-Biblioteca Python transformers (Hugging Face)
-Biblioteca Python torch (PyTorch)
-Biblioteca Python lime
+<ul>
+  <li>Python 3.10+</li>
+  <li>Biblioteca Python pandas</li>
+  <li>Biblioteca Python numpy</li>
+  <li>Biblioteca Python matplotlib.pyplot</li>
+  <li>Biblioteca Python seaborn</li>
+  <li>Biblioteca Python scikit-learn</li>
+  <li>Biblioteca Python transformers (Hugging Face)</li>
+  <li>Biblioteca Python torch (PyTorch)</li>
+  <li>Biblioteca Python lime</li>
+</ul>
 <h2>
   📋 Requirements
 </h2>
