@@ -1,5 +1,6 @@
 <h1>
-  EXPLAINABLE ARTIFICIAL INTELLIGENCE APPLIED TO HATE SPEECH CLASSIFICATION: BERT vs. GENERATIVE LLMS
+  Hate Speech Detection in Brazilian Portuguese:
+A Comparative Study Between BERT Models and Large Language Models
 </h1>
 <h2>
   📋 Requirements
