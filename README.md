@@ -22,7 +22,7 @@ The main objective of this work is to compare the performance of fine-tuned BERT
 <h2>
   📖 Dataset
 </h2>
-The <a href=https://aclanthology.org/W19-3510/>dataset</a> contains sentences in Brazilian Portuguese labeled with a binary class variable, indicating the presence or absence of hate speech. For the evaluation of the generative LLMs, a balanced sample of 100 sentences (50 labeled as hate speech and 50 as neutral) was used.
+The <a href=https://github.com/paulafortuna/Portuguese-Hate-Speech-Dataset/>dataset</a> contains sentences in Brazilian Portuguese labeled with a binary class variable, indicating the presence or absence of hate speech. For the evaluation of the generative LLMs, a balanced sample of 100 sentences (50 labeled as hate speech and 50 as neutral) was used.
 <h2>
   🧠 Machine Learning Models
 </h2>
