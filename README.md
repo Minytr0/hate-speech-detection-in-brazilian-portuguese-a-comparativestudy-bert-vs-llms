@@ -25,4 +25,4 @@ Qwen 3
 👏 Contributing
 If you find any issues or have suggestions to improve the code, feel free to contribute or open an issue.
 For questions or academic collaborations:
-📧 Luiz Davi
+📧 Seu Nome
