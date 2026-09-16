@@ -27,13 +27,15 @@ The <a href=https://github.com/paulafortuna/Portuguese-Hate-Speech-Dataset/>data
   🧠 Machine Learning Models
 </h2>
 The following models were trained and evaluated:
-BERTimbau-Base
-BERTimbau-Large
-Multilingual-BERT (mBERT)
-ChatGPT-4o
-Gemini-2.5-flash
-LLaMA 3.1
-Qwen 3
+<ul>
+  <li>BERTimbau-Base</li>
+  <li>BERTimbau-Large</li>
+  <li>Multilingual-BERT (mBERT)</li>
+  <li>ChatGPT-4o</li>
+  <li>Gemini-2.5-flash</li>
+  <li>LLaMA 3.1</li>
+  <li>Qwen 3</li>
+</ul>
 <h2>
   👏 Contributing
 </h2>
