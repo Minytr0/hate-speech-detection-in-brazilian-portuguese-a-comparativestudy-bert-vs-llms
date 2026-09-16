@@ -16,7 +16,7 @@
   <li>Biblioteca Python lime</li>
 </ul>
 <h2>
-  📋 Requirements
+🧾 Research Objective
 </h2>
 The main objective of this work is to compare the performance of fine-tuned BERT-based models (BERTimbau-Base, BERTimbau-Large, and Multilingual-BERT) against generative LLMs (ChatGPT-4o, Gemini-2.5-flash, LLaMA 3.1, and Qwen 3) on the task of hate speech classification in Brazilian Portuguese. In addition, this work applies the LIME interpretability technique to the best-performing model, contributing to increasing trust and transparency in AI systems applied to sensitive text classification tasks.
 <h2>
