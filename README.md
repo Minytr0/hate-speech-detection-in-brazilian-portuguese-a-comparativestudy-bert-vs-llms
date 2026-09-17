@@ -41,6 +41,6 @@ The following models were trained and evaluated:
 </h2>
 If you find any issues or have suggestions to improve the code, feel free to contribute or open an issue.
 For questions or academic collaborations:
-<h2>
+<h3>
   📧 <a href="mailto:luiz01davi@gmail.com">Luiz Davi</a>
-</h2>
+</h3>
